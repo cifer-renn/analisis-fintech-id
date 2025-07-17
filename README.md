@@ -20,7 +20,7 @@ Adopsi Luas (Kuadran Kiri Atas): Aplikasi seperti Kredivo menunjukkan penetrasi 
 2. Keterlibatan Pengguna (User Engagement)
 Analisis ini mengukur seberapa "vokal" pengguna sebuah aplikasi dengan menghitung rasio antara jumlah ulasan tertulis dan jumlah total rating. Rasio yang tinggi menandakan pengguna lebih sering meluangkan waktu untuk memberikan umpan balik detail.
 
-![Keterlibatan Pengguna Fintech](user_engagement.png)
+![Keterlibatan Pengguna](user_engagement.png)
 
 Temuan Kunci:
 
